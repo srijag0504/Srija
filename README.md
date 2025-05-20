@@ -1,4 +1,4 @@
-<h1  align="center">Hi 👋, I'm Srija G</h1>
+<h1 align="center">Hi 👋, I'm Srija G</h1>
 <h3 align="center">A passionate data science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srija0504&label=Profile%20views&color=0e75b6&style=flat" alt="srija0504" /> </p>
@@ -8,6 +8,8 @@
 - 🔭 I’m currently working on **Data Science projects**
 
 - 🌱 I’m currently learning **Machine Learning, NLP, Flask, and MongoDB integration**
+
+- 👨‍💻 All of my projects are available at [https://srijag0504.github.io/My-Portfolio/](https://srijag0504.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Computer Science Concepts, NLP Projects, Java & Python Development**
 
